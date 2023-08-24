@@ -1,0 +1,17 @@
+a{
+    text-decoration: none;
+}
+
+/* media query */
+@media(max-width: 600px){
+    .card{
+        display: none;
+    }
+}
+
+/* @media(max-width: 720px){
+    #cards .card{
+        margin-bottom: 20px;
+        width: 100%;
+    }
+} */
